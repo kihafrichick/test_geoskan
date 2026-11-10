@@ -12,10 +12,10 @@
 ## Структура проекта
 
 test_geoskan/
-├── getfield16.py
-├── test_getfield16.py
-├── requirements.txt
-└── README.md
+    ├── getfield16.py
+    ├── test_getfield16.py
+    ├── requirements.txt
+    └── README.md
 
 ## Установка и запуск
 - Откройте терминал (командную строку), перейдите в папку с проектом и выполните команду для установки необходимых библиотек:
